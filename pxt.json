@@ -9,7 +9,7 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "summer-game-jam.md"
+        "malware.md"
     ],
     "testFiles": [
         "test.ts"
