@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://bmarslandcn.github.io/workshops/](https://bmarslandcn.github.io/workshops/)
+> Open this page at [https://github.com/Code-Ninjas-Home-Office/camps](https://github.com/Code-Ninjas-Home-Office/camps)
 
 ## Use as Extension
 
@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/bmarslandcn/workshops** and import
+* search for **https://github.com/Code-Ninjas-Home-Office/camps** and import
 
 ## Edit this project ![Build status badge](https://github.com/bmarslandcn/workshops/workflows/MakeCode/badge.svg)
 
