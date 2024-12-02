@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://github.com/Code-Ninjas-Home-Office/camps](https://github.com/Code-Ninjas-Home-Office/camps)
+> Open this page at [https://code-ninjas-home-office.github.io/camps/](https://code-ninjas-home-office.github.io/camps/)
 
 ## Use as Extension
 
@@ -25,7 +25,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/bmarslandcn/workshops/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://code-ninjas-home-office.github.io/camps/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
